@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    text-align: center;
+    background-color: coral;
+}
+
+label {
+    margin: 0 auto;
+
+}
+body {background-color: #92a8d1;}
+
+input {
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
